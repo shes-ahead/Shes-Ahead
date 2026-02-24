@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="swan.png" width="180" alt="Structural Swan" />
+</div>
+
+<br/>
+
 # Shugri A.
 
 <div align="center">
