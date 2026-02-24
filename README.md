@@ -48,8 +48,8 @@ I am interested in what happens beneath visible outcomes.
 
 ## Connect
 
-If you’re building in finance, systems research, or AI infrastructure —  
-I’m always open to thoughtful conversations.
+If you’re building in finance, systems research, or intelligent infrastructure,
+I welcome thoughtful dialogue.
 
 ---
 
